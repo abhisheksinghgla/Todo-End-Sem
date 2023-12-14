@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/Todo-End-Sem/static/js/main.d8ab6bec.js",
+    "index.html": "/Todo-End-Sem/index.html",
+    "main.d8ab6bec.js.map": "/Todo-End-Sem/static/js/main.d8ab6bec.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.d8ab6bec.js"
+  ]
+}
